@@ -4,7 +4,7 @@ Here we'll generalize to 2D random walk for multiple particles and perform simpl
 
 1. Same as in Task 1, a template using angles to generate x and y steps is provided. Similar to what we did in class, we'll generate all the Np*Nstep random steps we need at once, so that no for loop is needed. 
 
-Next, instead of recording all the trajectories using cumulative sums, we will simply record the final position of the particles using just sum, using the appropriate axis arguments.
+Next, instead of recording all the trajectories using cumulative sums, we will simply record the final position of the particles using just sum, and using the appropriate axis arguments.
 
 A plotting section to show all the final positions of the random walkers is provided. A sample image is attached. 
 
