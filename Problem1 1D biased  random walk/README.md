@@ -1,4 +1,4 @@
-#Problem 1
+# Problem 1
 
 In this assignment we will implement a 1D "biased" random walk model.
 
